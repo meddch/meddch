@@ -3,7 +3,7 @@
 <br><br>
 ⛳ Currently Working on : 42_Cursus
 <br><br>
-🔥 Currently Studying : C / C++ / Shell / Dart / Flutter .
+🔥 Currently Studying : C / C++ / Shell / Flutter .
 <br><br>
 😜 Fun Fact : the first computer bug was an actual insect! In 1947, a moth
                was found inside the Harvard Mark II computer, causing a malfunction.
