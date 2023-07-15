@@ -27,3 +27,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZaariAnas&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<figure><embed src="https://wakatime.com/share/@363e80b1-7ee5-4e20-bf23-aac0acf8b10e/4d562b78-1553-4ec7-94b5-9f48eb559d23.svg"></embed></figure>
