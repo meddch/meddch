@@ -1,4 +1,5 @@
 💫 About Me:
+<br><br>
 🎓 Dedicated 1337 / 42 Network Student
 <br><br>
 ⚡ Currently Engaged in: 42_Cursus
