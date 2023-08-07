@@ -23,6 +23,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
----
+![]("https://wakatime.com/@363e80b1-7ee5-4e20-bf23-aac0acf8b10e"><img src="https://wakatime.com/badge/user/363e80b1-7ee5-4e20-bf23-aac0acf8b10e.svg")
 
