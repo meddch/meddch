@@ -29,10 +29,7 @@
 	<br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meddch&theme=nord_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meddch&theme=nord_dark"/>
-	
-<h2 align='center'><i>Commits Graph</i></h2>
-	
-![](https://activity-graph.herokuapp.com/graph?username=meddch&theme=react-dark)
+
 
 </details>
 
