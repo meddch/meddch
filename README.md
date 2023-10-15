@@ -11,7 +11,7 @@
 
 
 
-[![mechane's 42 stats](https://badge.mediaplus.ma/black/mechane)]
+![mechane's 42 stats](https://badge.mediaplus.ma/binary/mechane)
 
 
 
