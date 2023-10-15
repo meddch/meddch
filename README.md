@@ -11,7 +11,7 @@
 
 
 
-[![mechane's 42 stats](https://badge.mediaplus.ma/black/mechane)](https://github.com/oakoudad/badge42)
+[![mechane's 42 stats](https://badge.mediaplus.ma/black/mechane)]
 
 
 
