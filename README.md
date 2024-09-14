@@ -23,7 +23,7 @@ like PONG WORLD and WEB SERVER. Adept at the full software development lifecycle
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meddch&theme=nord_dark" />
   <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meddch&theme=nord_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnouarSaadi&theme=nord_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meddch&theme=nord_dark"/>
 	<br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meddch&theme=nord_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meddch&theme=nord_dark"/>
