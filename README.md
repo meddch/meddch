@@ -1,11 +1,16 @@
 💫 About Me : 
 <br><br>
+Aspiring software engineer with a robust technical foundation and hands-on experience in developing innovative software solutions. Demonstrated proficiency in C/C++, Python, and JavaScript through impactful projects
+like PONG WORLD and WEB SERVER. Adept at the full software development lifecycle, from conception to deployment. Eager to contribute to Adobe's mission of transforming digital experiences.
+<br><br>
 🎓 Dedicated 1337 / 42 Network Student
 <br><br>
 ⚡ Currently Engaged in : 42_Cursus
 <br><br>
 🔥 Focused on : C++ / Django / JS
 <br><br>
+
+
 😄 Fun Fact : Here's an interesting tidbit for you! The first computer bug wasn't a software issue, but rather a real insect. In 1947, a moth was discovered inside the Harvard Mark II computer, causing a malfunction. This incident led to the term "debugging" being coined to describe the process of removing errors or bugs from computer software. It's a quirky piece of history that showcases the unexpected challenges that can arise in the world of technology !
 <br><br>
 
