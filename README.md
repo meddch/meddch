@@ -19,15 +19,7 @@ like PONG WORLD and WEB SERVER. Adept at the full software development lifecycle
 
 #  GitHub Stats:
 <details open>	
-  <br />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meddch&theme=nord_dark" />
-  <br/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meddch&theme=nord_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meddch&theme=nord_dark"/>
-	<br />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meddch&theme=nord_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meddch&theme=nord_dark"/>
-<br/>
+ 
 <a href="https://wakatime.com"><img height="460" src="https://wakatime.com/share/@363e80b1-7ee5-4e20-bf23-aac0acf8b10e/cc637c56-4c36-48cb-a6cf-3d435f5fbe60.png" /></a>
 <br/>
 <a href="https://wakatime.com/@363e80b1-7ee5-4e20-bf23-aac0acf8b10e"><img src="https://wakatime.com/badge/user/363e80b1-7ee5-4e20-bf23-aac0acf8b10e.svg" alt="Total time coded since May 24 2023" /></a>
