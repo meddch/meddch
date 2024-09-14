@@ -7,14 +7,6 @@ like PONG WORLD and WEB SERVER. Adept at the full software development lifecycle
 <br><br>
 ⚡ Currently Engaged in : 42_Cursus
 <br><br>
-🔥 Focused on : C++ / Django / JS
-<br><br>
-
-
-😄 Fun Fact : Here's an interesting tidbit for you! The first computer bug wasn't a software issue, but rather a real insect. In 1947, a moth was discovered inside the Harvard Mark II computer, causing a malfunction. This incident led to the term "debugging" being coined to describe the process of removing errors or bugs from computer software. It's a quirky piece of history that showcases the unexpected challenges that can arise in the world of technology !
-<br><br>
-
-
 
 ![mechane's 42 stats](https://badge.mediaplus.ma/binary/mechane)
 
