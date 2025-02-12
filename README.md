@@ -7,6 +7,8 @@ like PONG WORLD and WEB SERVER. Adept at the full software development lifecycle
 <br><br>
 ⚡ Currently Engaged in : 42_Cursus
 <br><br>
+🌐 Check out my portfolio: [mechane.me](https://mechane.me)
+
 
 ![mechane's 42 stats](https://badge.mediaplus.ma/binary/mechane)
 
